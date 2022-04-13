@@ -1,0 +1,1 @@
+export 'scholarship.dart';
